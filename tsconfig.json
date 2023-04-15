@@ -1,0 +1,6 @@
+{
+    "include": ["typings/plugin.d.ts"],
+    "exclude": ["node_modules"]
+}
+  
+  
